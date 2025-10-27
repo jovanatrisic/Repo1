@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pm:language xmlns:pm="http://www.msg.de/msgpm/data/2011" abstract="false" code="ENG" culture="en-US" dataversion="1912" final="false" guid="6REQM54B10IQ0BUR210NNSEN3H" pmid="8100JT5MSG" sealed="false" sortkey="0" visibility="external">
+  <pm:namespace>e::TechnicalSchema::Languages</pm:namespace>
+  <pm:name>English</pm:name>
+</pm:language>
