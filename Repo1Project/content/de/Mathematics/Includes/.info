@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pm:package xmlns:pm="http://www.msg.de/msgpm/data/2011" dataversion="1912" guid="4DS7BKDGJUGMPAMTAT8G75CIJR" sortkey="450" structural="false">
+  <pm:namespace>de::Mathematics</pm:namespace>
+  <pm:name>Includes</pm:name>
+  <pm:label>
+    <pm:stringval encoding="none" culture="de-DE">Includes</pm:stringval>
+    <pm:stringval encoding="none" culture="en-US">Includes</pm:stringval>
+  </pm:label>
+  <pm:objecttypes inherited="false">
+    <pm:objecttype>include</pm:objecttype>
+  </pm:objecttypes>
+</pm:package>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pm:package xmlns:pm="http://www.msg.de/msgpm/data/2011" dataversion="1912" guid="9HLC02I4JGH208GUN7QARUTT5S" sortkey="420" structural="false">
+  <pm:namespace>de::Mathematics</pm:namespace>
+  <pm:name>Structures</pm:name>
+  <pm:label>
+    <pm:stringval encoding="none" culture="de-DE">Strukturen</pm:stringval>
+    <pm:stringval encoding="none" culture="en-US">Structures</pm:stringval>
+  </pm:label>
+  <pm:objecttypes inherited="false">
+    <pm:objecttype>structure</pm:objecttype>
+  </pm:objecttypes>
+</pm:package>
