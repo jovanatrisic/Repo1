@@ -10,6 +10,7 @@
   </pm:compileroptions>
   <pm:sourcecode language="m10">
     <pm:text encoding="none"><![CDATA[//first
-//second]]></pm:text>
+//second
+//seconds]]></pm:text>
   </pm:sourcecode>
 </pm:formula>
