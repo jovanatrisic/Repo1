@@ -11,6 +11,7 @@
   <pm:sourcecode language="m10">
     <pm:text encoding="none"><![CDATA[//first
 //second
-//seconds]]></pm:text>
+//seconds
+//d]]></pm:text>
   </pm:sourcecode>
 </pm:formula>
