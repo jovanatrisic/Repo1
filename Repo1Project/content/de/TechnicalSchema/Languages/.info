@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pm:package xmlns:pm="http://www.msg.de/msgpm/data/2011" dataversion="1912" guid="1EUQ4FLT0QISB9D3K325BS60B4" sortkey="150" structural="false">
+  <pm:namespace>de::TechnicalSchema</pm:namespace>
+  <pm:name>Languages</pm:name>
+  <pm:label>
+    <pm:stringval encoding="none" culture="de-DE">Sprachen</pm:stringval>
+    <pm:stringval encoding="none" culture="en-US">Languages</pm:stringval>
+  </pm:label>
+  <pm:objecttypes inherited="false">
+    <pm:objecttype>language</pm:objecttype>
+  </pm:objecttypes>
+</pm:package>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pm:package xmlns:pm="http://www.msg.de/msgpm/data/2011" dataversion="1912" guid="C5JFF22D80GRA8PK5Q8KLIMO3P" sortkey="330" structural="false">
+  <pm:namespace>de::Constants</pm:namespace>
+  <pm:name>Tables</pm:name>
+  <pm:label>
+    <pm:stringval encoding="none" culture="de-DE">Tabellen</pm:stringval>
+    <pm:stringval encoding="none" culture="en-US">Tables</pm:stringval>
+  </pm:label>
+  <pm:objecttypes inherited="false">
+    <pm:objecttype>internaltable</pm:objecttype>
+    <pm:objecttype>externaltable</pm:objecttype>
+  </pm:objecttypes>
+</pm:package>
