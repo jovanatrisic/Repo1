@@ -9,6 +9,7 @@
     </pm:languageoptions>
   </pm:compileroptions>
   <pm:sourcecode language="m10">
-    <pm:text encoding="none">//first</pm:text>
+    <pm:text encoding="none"><![CDATA[//first
+//second]]></pm:text>
   </pm:sourcecode>
 </pm:formula>
