@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pm:formula xmlns:pm="http://www.msg.de/msgpm/data/2011" abstract="false" datatype="float" dataversion="2012" final="false" guid="1NQSON13EII7M88OTI7C7TA0FR" isnullable="false" nrdims="0" pmid="2100JT5MSG" sealed="false" sortkey="0" visibility="content">
+  <pm:namespace>de::Mathematics::Formulas</pm:namespace>
+  <pm:name>Formula_1</pm:name>
+  <pm:resultname>Res</pm:resultname>
+  <pm:compileroptions>
+    <pm:languageoptions>
+      <pm:m10options autobreaksincases="none" forceassignmenttargetresizing="none"/>
+    </pm:languageoptions>
+  </pm:compileroptions>
+  <pm:sourcecode language="m10">
+    <pm:text encoding="none">//first</pm:text>
+  </pm:sourcecode>
+</pm:formula>
